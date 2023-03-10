@@ -13,3 +13,7 @@ To launch the program, run the following command. You must be in the root direct
 ```
 python scripts/main.py
 ```
+
+## Usage
+- Space - pause/play the video
+- Escape - fullscreen/window the video
